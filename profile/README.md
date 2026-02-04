@@ -38,7 +38,8 @@ CFP открыт постоянно.
 
 - 🌐 Сайт: https://almatyjs.kz  
 - 📣 Telegram: https://t.me/almaty_js  
-- 🎥 YouTube: https://www.youtube.com/@almatyjs  
+- 🎥 YouTube: https://www.youtube.com/@almatyjs
+- 💌 Почта: orgs@almatyjs.kz
 
 ## Контрибьюшн
 
